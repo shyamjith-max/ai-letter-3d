@@ -9,12 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-  "@react-three/drei": "^10.7.6",
-  "@react-three/fiber": "^9.3.0",
+    "@react-three/drei": "^9.53.1",
+    "@react-three/fiber": "^8.18.0",
+    "@use-gesture/react": "^10.3.1",
     "framer-motion": "^10.12.16",
-    "next": "^13.5.7",
+    "next": "^15.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "three": "^0.166.1"
+    "react-use-measure": "^2.0.3",
+    "three": "^0.164.0",
+    "three-mesh-bvh": "^0.8.0"
   }
 }
